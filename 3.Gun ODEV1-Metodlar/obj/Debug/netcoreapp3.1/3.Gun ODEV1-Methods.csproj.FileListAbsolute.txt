@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\bin\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.exe
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\bin\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.deps.json
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\bin\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.runtimeconfig.json
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\bin\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.runtimeconfig.dev.json
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\bin\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.dll
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\bin\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.pdb
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\obj\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\obj\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\obj\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.AssemblyInfo.cs
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\obj\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\obj\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.dll
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\obj\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.pdb
+C:\Users\HP\source\repos\3.Gun ODEV1-Metodlar\obj\Debug\netcoreapp3.1\3.Gun ODEV1-Methods.genruntimeconfig.cache

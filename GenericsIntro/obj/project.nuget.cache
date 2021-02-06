@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ET4L3tUs60eE7RvqV4KNpKBKToLc90GG+ENdRUiHFxD7e7HuPkPYAmxypXx1/7Aj5rIdJmZ99hqJs95hqfcwxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\GenericsIntro\\GenericsIntro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

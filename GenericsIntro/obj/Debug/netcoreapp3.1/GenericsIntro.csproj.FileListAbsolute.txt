@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\HP\source\repos\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\HP\source\repos\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\HP\source\repos\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\HP\source\repos\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\HP\source\repos\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\HP\source\repos\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\HP\source\repos\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\HP\source\repos\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\HP\source\repos\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
+C:\Users\HP\source\repos\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache

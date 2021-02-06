@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.exe
+C:\Users\HP\source\repos\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.deps.json
+C:\Users\HP\source\repos\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.runtimeconfig.json
+C:\Users\HP\source\repos\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.dll
+C:\Users\HP\source\repos\Classİntro\bin\Debug\netcoreapp3.1\Classİntro.pdb
+C:\Users\HP\source\repos\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.AssemblyInfo.cs
+C:\Users\HP\source\repos\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.dll
+C:\Users\HP\source\repos\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.pdb
+C:\Users\HP\source\repos\Classİntro\obj\Debug\netcoreapp3.1\Classİntro.genruntimeconfig.cache

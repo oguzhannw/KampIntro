@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lf0ePsZsSd5al7Qo0+aTE3YwJDQwdXZgvwwTw6MaPLCfRYZRRNinz+42tmt76krvce4oPGYgHScfecsuNTrCZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\DegerlerVeReferansTipler\\DegerlerVeReferansTipler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

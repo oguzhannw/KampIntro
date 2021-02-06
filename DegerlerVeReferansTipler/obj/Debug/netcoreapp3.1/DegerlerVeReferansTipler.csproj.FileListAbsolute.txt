@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerlerVeReferansTipler.exe
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerlerVeReferansTipler.deps.json
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerlerVeReferansTipler.runtimeconfig.json
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerlerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerlerVeReferansTipler.dll
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerlerVeReferansTipler.pdb
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerlerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerlerVeReferansTipler.AssemblyInfo.cs
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerlerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerlerVeReferansTipler.dll
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerlerVeReferansTipler.pdb
+C:\Users\HP\source\repos\DegerlerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerlerVeReferansTipler.genruntimeconfig.cache

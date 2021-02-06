@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLsgfm1kV1LRJoSLiOSlD1UrShoEUdvRF5nLgTMAjAPCdlQsTcq1FRE+/UCmIBGUmBUe+vQ6CtEphqojeElKgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ClassMetotDemo\\ClassMetotDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
