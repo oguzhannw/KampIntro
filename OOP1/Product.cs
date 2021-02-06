@@ -13,6 +13,5 @@ namespace OOP1
         public double UnitPrice { get; set; } //Br fiyatı
         public int UnitsInStock { get; set; } //Stok adedi
 
-
     }
 }

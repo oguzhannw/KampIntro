@@ -18,12 +18,6 @@ namespace OOP1
             Console.WriteLine(product.ProductName + " Güncellendi.");
         }
 
-
-
-
-
-
-
         //public int Topla(int sayi1, int sayi2)
         //{
         //    return sayi1 + sayi2; // ** RETURN önemlidir çünkü bu toplama işleminin sonucunu başka bir yerde kullanmamızı sağlar.
