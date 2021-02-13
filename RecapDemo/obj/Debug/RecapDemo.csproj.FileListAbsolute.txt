@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\HP\source\repos\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\HP\source\repos\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\HP\source\repos\RecapDemo\obj\Debug\RecapDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\HP\source\repos\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\HP\source\repos\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\HP\source\repos\RecapDemo\obj\Debug\RecapDemo.pdb
